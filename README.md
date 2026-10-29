@@ -1,5 +1,7 @@
 # The Polar Sprinter for Tinker
 
+**Workshop status:** David reports that the exports do not work in Workshop. The prior validation was local to Blender; no successful Item Tools compile or in-game preview was demonstrated. See [SPEC.md](SPEC.md) for the current project specification and Claude repair handoff.
+
 Dota 2 fan cosmetic, race gear revision 2026-10-28.
 
 [Download the editable Blender files](https://github.com/yuichiromountainshiba/tinker-polar-sprinter/releases/tag/race-gear-2026-10-28)
